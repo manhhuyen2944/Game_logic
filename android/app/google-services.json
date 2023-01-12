@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "263619589297",
+    "project_id": "threeh-app-2530d",
+    "storage_bucket": "threeh-app-2530d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:263619589297:android:a5146e3456679cf252de90",
+        "android_client_info": {
+          "package_name": "com.example.project_threeh"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "263619589297-q074favgk47h63v0ksh6kc43jtnr9g7s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVaZeDSkgaumoVEDRHC3nFBwbuTZ_yvW8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "263619589297-q074favgk47h63v0ksh6kc43jtnr9g7s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
